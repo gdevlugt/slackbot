@@ -8,5 +8,6 @@
   "hubot-redis-brain",
   "hubot-rules",
   "hubot-youtube",
-  "hubot-tell"
+  "hubot-tell",
+  "hubot-explainshell"
 ]
